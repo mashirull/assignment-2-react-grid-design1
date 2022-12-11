@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment-2-react-grid-design1/static/css/main.acc9d2c6.css",
+    "main.js": "/assignment-2-react-grid-design1/static/js/main.1ed36fc3.js",
+    "static/js/787.b5dc8d04.chunk.js": "/assignment-2-react-grid-design1/static/js/787.b5dc8d04.chunk.js",
+    "index.html": "/assignment-2-react-grid-design1/index.html",
+    "main.acc9d2c6.css.map": "/assignment-2-react-grid-design1/static/css/main.acc9d2c6.css.map",
+    "main.1ed36fc3.js.map": "/assignment-2-react-grid-design1/static/js/main.1ed36fc3.js.map",
+    "787.b5dc8d04.chunk.js.map": "/assignment-2-react-grid-design1/static/js/787.b5dc8d04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acc9d2c6.css",
+    "static/js/main.1ed36fc3.js"
+  ]
+}
